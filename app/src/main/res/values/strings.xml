@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewsAssignment</string>
+    <string name="onboarding_login_label">Already have account?</string>
+    <string name="onboarding_login">Log In</string>
+    <string name="onboarding_shop_men">Shop men</string>
+    <string name="onboarding_shop_women">Shop women</string>
+    <string name="onboarding_title">Fashion Modern Aesthetic</string>
+</resources>
